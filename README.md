@@ -1,6 +1,6 @@
 # Intro
 
-In this project next pretrained classification models was used:
+In this project next pretrained classification models were used:
  
  - VGG16
  - InceptionResNetV2
