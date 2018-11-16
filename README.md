@@ -18,7 +18,7 @@ We also use 400 additional samples from each class as validation data. To make f
 |-----------|:-------:|:----------------------------:|
 | VGG16  |23 103 809 | 97.0 | 
 | InceptionResNetV2  | 68 493 282| 94.5| 
-| Xception  | | | 
+| Xception  | 54 416 682| 98 | 
 | ResNeXt50 |  |  | 
 
 
